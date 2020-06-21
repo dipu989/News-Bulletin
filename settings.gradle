@@ -1,0 +1,2 @@
+rootProject.name='Bulletin'
+include ':app'
